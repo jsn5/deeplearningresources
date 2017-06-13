@@ -1,6 +1,7 @@
 # deepLearning resources
 
 Best video explainations for cnn
+
 https://www.youtube.com/watch?v=FmpDIaiMIeA
 
 
