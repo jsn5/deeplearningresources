@@ -1,6 +1,6 @@
 # deepLearning resources
 
-## Best video explainations for cnn
+## Introduction to CNN (my favourite)
 
 https://www.youtube.com/watch?v=FmpDIaiMIeA
 
