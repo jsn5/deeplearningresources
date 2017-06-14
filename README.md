@@ -1,4 +1,4 @@
-# deepLearning resources
+# Collection of useful resources
 
 ## Introduction to CNN (my favourite)
 
